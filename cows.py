@@ -3,4 +3,3 @@ b =[]
 print(not a)
 print(not b)
 
-
